@@ -1,6 +1,6 @@
 # 🧠 Credit Risk Default Predictor
 
-This project is part of my **#100DaysOfFinanceDataScience** challenge.
+This project is part of my **#100DaysOfDataScience** challenge.
 
 It predicts the likelihood of a customer defaulting on their credit card payment based on historical financial behavior using classical ML techniques. A strong emphasis is placed on solving **class imbalance** using **SMOTE** and evaluating the model with metrics beyond accuracy.
 
@@ -77,7 +77,7 @@ It predicts the likelihood of a customer defaulting on their credit card payment
 
 **Rohit Kumar Yadav**  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-yadav-b97360194/)  
-🌱 #100DaysOfFinanceDataScience
+🌱 #100DaysOfDataScience
 
 ---
 
